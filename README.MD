@@ -96,5 +96,3 @@ Respon Sukses (200):
   "status": "success"
 }
 ```
-
-![Tampilan WEB.png](../Tampilan%20WEB.png)
